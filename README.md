@@ -14,7 +14,11 @@ Please edit the Palindrome.java file.
  - javac Principal.java
 
 ## Run
+### Generic
  - java Principal argument
+### Tests
+ - java Principal this_is_not_a_palindrome => false
+ - java Principal kelek => true
 
 ## Hints
 * A selected set of operations available on String class
